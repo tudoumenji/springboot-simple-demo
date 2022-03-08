@@ -8,6 +8,7 @@ class SpringbootSimpleDemoApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("test");
     }
 
 }
